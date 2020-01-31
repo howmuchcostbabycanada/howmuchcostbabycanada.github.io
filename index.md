@@ -11,9 +11,8 @@ Baby arriving this year, 2020. Why not keeping track of various different expens
 
 ### Running expenses so far
 
+This is the ledger output report on Expenses:
 ```
-This is the ledger output report on expenses:
-
              $3044.48  Expenses
              $199.82    Clothes
               $15.00      H&M
@@ -44,7 +43,7 @@ This is the ledger output report on expenses:
             $3044.48
 ```
 
-This is ledger report on the assets:
+This is ledger output report on Assets:
 
 ```
            $-1033.62  Assets
@@ -57,5 +56,4 @@ This is ledger report on the assets:
              $127.57    Wallet:Hospital:Parking:Passes
 --------------------
            $-1033.62
-```
 ```
