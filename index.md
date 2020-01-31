@@ -1,4 +1,4 @@
-## How much cost having a baby in Canada?
+## How Much Does It Cost To Have a Baby in Canada?
 
 Baby arriving this year, 2020. Why not keeping track of various different expenses during this process?
 
