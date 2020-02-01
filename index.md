@@ -11,12 +11,12 @@ Baby arriving this year, 2020. Why not keeping track of various different expens
 
 ### Running expenses so far
 
-This is the ledger output report on Expenses:
+This is the ledger output report on Assets:
 ```
 {% include_relative assets.md %}
 ```
 
-This is ledger output report on Assets:
+This is ledger output report on Expenses:
 
 ```
 {% include_relative expenses.md %}
