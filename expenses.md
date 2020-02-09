@@ -1,5 +1,6 @@
-            $3044.48  Expenses
-             $199.82    Clothes
+            $3114.74  Expenses
+             $270.08    Clothes
+              $70.26      Carter
               $15.00      H&M
               $99.06      JoeFresh
               $85.76      ThymeMaternity
@@ -25,4 +26,4 @@
              $125.00      OB:AdminFees
              $141.75      Parking
 --------------------
-            $3044.48
+            $3114.74

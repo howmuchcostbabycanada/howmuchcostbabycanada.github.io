@@ -1,5 +1,5 @@
-           $-1033.62  Assets
-           $-2402.59    Bank
+           $-1103.88  Assets
+           $-2472.85    Bank
              $429.39    Equipment:BestBuy:Stroller
              $812.00    Furniture
              $398.00      ArmChair
@@ -7,4 +7,4 @@
              $315.00      Closet
              $127.57    Wallet:Hospital:Parking:Passes
 --------------------
-           $-1033.62
+           $-1103.88
