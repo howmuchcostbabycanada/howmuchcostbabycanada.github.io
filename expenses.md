@@ -1,4 +1,4 @@
-            $3114.74  Expenses
+            $3349.74  Expenses
              $270.08    Clothes
               $70.26      Carter
               $15.00      H&M
@@ -22,8 +22,9 @@
               $19.03        Constipation
               $95.72        Drugs
               $19.97        Vitamins
-             $266.75    Hospital
+             $501.75    Hospital
              $125.00      OB:AdminFees
              $141.75      Parking
+             $235.00      PreNatalCourses
 --------------------
-            $3114.74
+            $3349.74
