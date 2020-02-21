@@ -6,7 +6,6 @@
               $85.76      ThymeMaternity
               $16.36    Comfort:Mom
              $881.38    Equipment
-             $429.39      BestBuy:Stroller
              $451.99      Dryer
              $945.60    Furniture
               $28.04      Amazon:Lights
