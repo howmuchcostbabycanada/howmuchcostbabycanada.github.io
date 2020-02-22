@@ -1,7 +1,8 @@
-            $-990.35  Assets
-           $-2834.29    Bank
-             $904.37    Equipment
+           $-1062.50  Assets
+           $-2913.22    Bank
+             $911.14    Equipment
               $22.99      BabyMonitor
+               $6.77      BabyShowerAdaptor
              $451.99      PandaDryer
              $429.39      Stroller
              $812.00    Furniture
@@ -10,4 +11,4 @@
              $315.00      Closet
              $127.57    Wallet:Hospital:Parking:Passes
 --------------------
-            $-990.35
+           $-1062.50

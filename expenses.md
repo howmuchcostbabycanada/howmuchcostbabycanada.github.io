@@ -1,11 +1,12 @@
-            $3476.18  Expenses
-             $396.52    Clothes
+            $3555.11  Expenses
+             $468.68    Clothes
               $70.26      Carter
               $15.00      H&M
-              $99.06      JoeFresh
+             $171.22      JoeFresh
              $212.20      ThymeMaternity
               $16.36    Comfort:Mom
-             $881.38    Equipment
+             $888.15    Equipment
+               $6.77      BabyShowerAdaptor
              $451.99      Dryer
              $945.60    Furniture
               $28.04      Amazon:Lights
@@ -26,4 +27,4 @@
              $141.75      Parking
              $235.00      PreNatalCourses
 --------------------
-            $3476.18
+            $3555.11
