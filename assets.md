@@ -1,4 +1,4 @@
-           $-1062.50  Assets
+           $-1076.68  Assets
            $-2913.22    Bank
              $911.14    Equipment
               $22.99      BabyMonitor
@@ -9,6 +9,6 @@
              $398.00      ArmChair
               $99.00      ChangingTable
              $315.00      Closet
-             $127.57    Wallet:Hospital:Parking:Passes
+             $113.40    Wallet:Hospital:Parking:Passes
 --------------------
-           $-1062.50
+           $-1076.68
