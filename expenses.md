@@ -1,4 +1,4 @@
-            $3571.35  Expenses
+            $3617.35  Expenses
              $468.68    Clothes
               $70.26      Carter
               $15.00      H&M
@@ -8,13 +8,13 @@
              $888.15    Equipment
                $6.77      BabyShowerAdaptor
              $451.99      Dryer
-             $945.60    Furniture
+             $991.60    Furniture
               $28.04      Amazon:Lights
-             $917.56      Ikea
+             $963.56      Ikea
               $99.00        ArmChair:FootRest
              $299.00        Armchair
               $99.00        ChangingTable
-             $315.00        Closet
+             $361.00        Closet
              $105.56        Taxes
              $750.81    Health
              $550.00      Baby:Exams
@@ -27,4 +27,4 @@
              $141.75      Parking
              $235.00      PreNatalCourses
 --------------------
-            $3571.35
+            $3617.35
