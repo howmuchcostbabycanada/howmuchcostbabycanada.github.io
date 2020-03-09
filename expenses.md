@@ -1,4 +1,4 @@
-            $3555.11  Expenses
+            $3571.35  Expenses
              $468.68    Clothes
               $70.26      Carter
               $15.00      H&M
@@ -16,15 +16,15 @@
               $99.00        ChangingTable
              $315.00        Closet
              $105.56        Taxes
-             $734.57    Health
+             $750.81    Health
              $550.00      Baby:Exams
-             $184.57      Mom
+             $200.81      Mom
               $19.03        Constipation
               $95.72        Drugs
-              $19.97        Vitamins
+              $62.42        Vitamins
              $501.75    Hospital
              $125.00      OB:AdminFees
              $141.75      Parking
              $235.00      PreNatalCourses
 --------------------
-            $3555.11
+            $3571.35

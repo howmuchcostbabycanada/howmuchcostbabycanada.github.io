@@ -1,5 +1,5 @@
-           $-1076.68  Assets
-           $-2913.22    Bank
+           $-1092.92  Assets
+           $-2929.46    Bank
              $911.14    Equipment
               $22.99      BabyMonitor
                $6.77      BabyShowerAdaptor
@@ -11,4 +11,4 @@
              $315.00      Closet
              $113.40    Wallet:Hospital:Parking:Passes
 --------------------
-           $-1076.68
+           $-1092.92
