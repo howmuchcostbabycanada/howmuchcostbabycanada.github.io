@@ -1,6 +1,6 @@
-            $3617.35  Expenses
-             $468.68    Clothes
-              $70.26      Carter
+            $3896.45  Expenses
+             $485.44    Clothes
+              $87.02      Carter
               $15.00      H&M
              $171.22      JoeFresh
              $212.20      ThymeMaternity
@@ -16,15 +16,17 @@
               $99.00        ChangingTable
              $361.00        Closet
              $105.56        Taxes
-             $750.81    Health
+            $1013.15    Health
              $550.00      Baby:Exams
-             $200.81      Mom
+             $463.15      Mom
               $19.03        Constipation
               $95.72        Drugs
+             $102.34        Massage
+             $160.00        Physiotherapy
               $62.42        Vitamins
              $501.75    Hospital
              $125.00      OB:AdminFees
              $141.75      Parking
              $235.00      PreNatalCourses
 --------------------
-            $3617.35
+            $3896.45
