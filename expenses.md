@@ -1,9 +1,10 @@
-            $3896.45  Expenses
-             $485.44    Clothes
+            $3991.94  Expenses
+             $580.93    Clothes
               $87.02      Carter
               $15.00      H&M
              $171.22      JoeFresh
              $212.20      ThymeMaternity
+              $95.49      Uniqlo
               $16.36    Comfort:Mom
              $888.15    Equipment
                $6.77      BabyShowerAdaptor
@@ -29,4 +30,4 @@
              $141.75      Parking
              $235.00      PreNatalCourses
 --------------------
-            $3896.45
+            $3991.94
