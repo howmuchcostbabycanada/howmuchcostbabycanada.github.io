@@ -4,6 +4,10 @@ Baby arriving this year, 2020. Why not keep track of the different expenses duri
 
 We'll update this either weekly or as new entries comes in.
 
+### COVID-19
+
+With millions of people losing their jobs from massive layoffs and still expecting a baby, I hope this website also helps people to plan out their finances during these difficult times.
+
 ### Tools
 
 - ledger-cli
