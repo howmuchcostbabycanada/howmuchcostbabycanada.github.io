@@ -6,7 +6,7 @@ We'll update this either weekly or as new entries comes in.
 
 ### COVID-19
 
-I hope this website also people to plan out their finances during these difficult times.
+I hope this website help people to plan out their finances during these difficult times.
 
 ### Tools
 
