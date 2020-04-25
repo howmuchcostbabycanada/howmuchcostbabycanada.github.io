@@ -1,9 +1,9 @@
-           $-1287.47  Assets
+           $-1513.41  Assets
               $51.47    Baby
               $13.98      Creams
               $34.00      Diapers
                $3.49      Wipes
-           $-3221.48    Bank
+           $-3447.42    Bank
              $911.14    Equipment
               $22.99      BabyMonitor
                $6.77      BabyShowerAdaptor
@@ -15,4 +15,4 @@
              $361.00      Closet
              $113.40    Wallet:Hospital:Parking:Passes
 --------------------
-           $-1287.47
+           $-1513.41

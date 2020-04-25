@@ -1,12 +1,12 @@
-            $4084.37  Expenses
-              $51.47    Baby
+            $4310.31  Expenses
+              $55.26    Baby
               $13.98      Creams
-              $34.00      Diapers
+              $37.79      Diapers
                $3.49      Wipes
-             $580.93    Clothes
+             $803.08    Clothes
               $87.02      Carter
               $15.00      H&M
-             $171.22      JoeFresh
+             $393.37      JoeFresh
              $212.20      ThymeMaternity
               $95.49      Uniqlo
               $16.36    Comfort:Mom
@@ -35,4 +35,4 @@
              $141.75      Parking
              $235.00      PreNatalCourses
 --------------------
-            $4084.37
+            $4310.31
