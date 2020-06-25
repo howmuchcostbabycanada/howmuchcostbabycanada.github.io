@@ -1,9 +1,9 @@
-           $-1203.47  Assets
+           $-1263.47  Assets
               $51.47    Baby
               $13.98      Creams
               $34.00      Diapers
                $3.49      Wipes
-           $-3630.94    Bank
+           $-3690.94    Bank
              $947.13    Equipment
               $22.99      BabyMonitor
                $6.77      BabyShowerAdaptor
@@ -16,4 +16,4 @@
              $500.00    GiftCards:ToyRUs
               $70.88    Wallet:Hospital:Parking:Passes
 --------------------
-           $-1203.47
+           $-1263.47

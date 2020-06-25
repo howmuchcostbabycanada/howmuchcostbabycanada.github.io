@@ -1,4 +1,4 @@
-            $4493.83  Expenses
+            $4553.83  Expenses
               $80.25    Baby
               $13.98      Creams
               $62.78      Diapers
@@ -11,7 +11,7 @@
              $393.37      JoeFresh
              $212.20      ThymeMaternity
               $95.49      Uniqlo
-              $16.36    Comfort:Mom
+              $16.36    Comfort:Mom:PregnantPillow
              $952.71    Equipment
                $6.77      BabyShowerAdaptor
                $8.48      DiaperChangeCushion
@@ -39,5 +39,6 @@
              $125.00      OB:AdminFees
              $141.75      Parking
              $235.00      PreNatalCourses
+              $60.00    Paperwork:BirthCertificate
 --------------------
-            $4493.83
+            $4553.83
