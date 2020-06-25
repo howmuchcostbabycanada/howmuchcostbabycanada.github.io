@@ -1,10 +1,10 @@
-           $-1513.41  Assets
+           $-1203.47  Assets
               $51.47    Baby
               $13.98      Creams
               $34.00      Diapers
                $3.49      Wipes
-           $-3447.42    Bank
-             $911.14    Equipment
+           $-3630.94    Bank
+             $947.13    Equipment
               $22.99      BabyMonitor
                $6.77      BabyShowerAdaptor
              $451.99      PandaDryer
@@ -13,6 +13,7 @@
              $398.00      ArmChair
               $99.00      ChangingTable
              $361.00      Closet
-             $113.40    Wallet:Hospital:Parking:Passes
+             $500.00    GiftCards:ToyRUs
+              $70.88    Wallet:Hospital:Parking:Passes
 --------------------
-           $-1513.41
+           $-1203.47

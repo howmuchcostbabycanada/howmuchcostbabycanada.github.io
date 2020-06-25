@@ -1,18 +1,23 @@
-            $4310.31  Expenses
-              $55.26    Baby
+            $4493.83  Expenses
+              $80.25    Baby
               $13.98      Creams
-              $37.79      Diapers
+              $62.78      Diapers
                $3.49      Wipes
-             $803.08    Clothes
+             $897.05    Clothes
+              $93.97      Amazon
+              $42.00        NursingBra
               $87.02      Carter
               $15.00      H&M
              $393.37      JoeFresh
              $212.20      ThymeMaternity
               $95.49      Uniqlo
               $16.36    Comfort:Mom
-             $888.15    Equipment
+             $952.71    Equipment
                $6.77      BabyShowerAdaptor
+               $8.48      DiaperChangeCushion
+              $35.99      DiaperDisposal
              $451.99      Dryer
+              $20.09      Thermometer
              $991.60    Furniture
               $28.04      Amazon:Lights
              $963.56      Ikea
@@ -35,4 +40,4 @@
              $141.75      Parking
              $235.00      PreNatalCourses
 --------------------
-            $4310.31
+            $4493.83

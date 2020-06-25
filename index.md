@@ -6,6 +6,8 @@ We'll update this either weekly or as new entries comes in.
 
 ### COVID-19
 
+Baby was born in June. Planning for the hospital stay wasn't very easy. Since partners are not allowed to leave the birthing unit/room make sure you pack enough food for the stay.
+
 I hope this website help people to plan out their finances during these difficult times.
 
 ### Tools
