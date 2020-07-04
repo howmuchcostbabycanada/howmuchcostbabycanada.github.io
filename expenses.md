@@ -1,15 +1,15 @@
-            $4553.83  Expenses
+            $4964.49  Expenses
               $80.25    Baby
               $13.98      Creams
               $62.78      Diapers
                $3.49      Wipes
-             $897.05    Clothes
+            $1307.71    Clothes
               $93.97      Amazon
               $42.00        NursingBra
               $87.02      Carter
               $15.00      H&M
              $393.37      JoeFresh
-             $212.20      ThymeMaternity
+             $622.86      ThymeMaternity
               $95.49      Uniqlo
               $16.36    Comfort:Mom:PregnantPillow
              $952.71    Equipment
@@ -41,4 +41,4 @@
              $235.00      PreNatalCourses
               $60.00    Paperwork:BirthCertificate
 --------------------
-            $4553.83
+            $4964.49
