@@ -1,4 +1,4 @@
-            $4964.49  Expenses
+            $5784.49  Expenses
               $80.25    Baby
               $13.98      Creams
               $62.78      Diapers
@@ -35,10 +35,11 @@
              $160.00        Physiotherapy
              $103.38        Vitamins
               $15.99          Iron
-             $501.75    Hospital
+            $1321.75    Hospital
              $125.00      OB:AdminFees
              $141.75      Parking
              $235.00      PreNatalCourses
+             $820.00      Room
               $60.00    Paperwork:BirthCertificate
 --------------------
-            $4964.49
+            $5784.49

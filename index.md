@@ -29,3 +29,9 @@ This is ledger output report on Expenses:
 ```
 {% include_relative expenses.md %}
 ```
+
+This is the ledger output report for what Insurance covered expenses:
+
+```
+{% include_relative insurance.md %}
+```
