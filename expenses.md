@@ -1,7 +1,7 @@
-            $5784.49  Expenses
-              $80.25    Baby
-              $13.98      Creams
-              $62.78      Diapers
+            $5810.46  Expenses
+             $106.22    Baby
+              $21.97      Creams
+              $80.76      Diapers
                $3.49      Wipes
             $1307.71    Clothes
               $93.97      Amazon
@@ -42,4 +42,4 @@
              $820.00      Room
               $60.00    Paperwork:BirthCertificate
 --------------------
-            $5784.49
+            $5810.46
