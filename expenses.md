@@ -1,23 +1,54 @@
-            $5810.46  Expenses
-             $106.22    Baby
+            $7346.46  Expenses
+            $1019.39    Baby
+             $117.51      Books
+              $10.14      BottleDryingRack
+              $19.99      ChangingPad
               $21.97      Creams
-              $80.76      Diapers
-               $3.49      Wipes
-            $1307.71    Clothes
+             $495.31      Diapers
+              $15.99      SelfFeedingSpoons
+               $8.99      ToothBrush
+             $269.37      Toys
+               $6.47      Tylenol
+              $31.19      Vitamins
+              $22.46      Wipes
+            $1422.34    Clothes
               $93.97      Amazon
               $42.00        NursingBra
+              $73.65      Bibs
               $87.02      Carter
               $15.00      H&M
              $393.37      JoeFresh
+              $23.99      Socks
              $622.86      ThymeMaternity
               $95.49      Uniqlo
+              $16.99      WarmBoots
               $16.36    Comfort:Mom:PregnantPillow
-             $952.71    Equipment
+            $1405.45    Equipment
+              $13.89      15mlNewbornInfantLiquidDispenser
+              $25.95      18Pack2OzBabyFoodStorage
+              $51.96      3InchFoamGrackPlayMattress
+               $8.99      3Stage8ozBottle
+              $34.78      BabyBathSupport
+              $25.95      BabyFreshFoodFeeder
+              $14.99      BabyMittensAntiScratch
                $6.77      BabyShowerAdaptor
+              $13.55      BreastMilkStorageBags
+              $13.47      CarBabyMirror
+              $17.54      CarSunShades
+              $14.99      ChildProofingCornerProtector15Pack
+               $6.39      Crayons
+              $12.99      DRingLocking
                $8.48      DiaperChangeCushion
               $35.99      DiaperDisposal
              $451.99      Dryer
+              $59.99      FoldableMemoryFoam
+              $22.40      InflatableBathTub
+              $24.99      KneelingPadsForBath
+              $36.04      MunchkinMiracle
+               $8.97      MunchkinSuctionBowl
+              $19.99      NoseAspirator
               $20.09      Thermometer
+              $24.92      TommeeTippeeSippieCups
              $991.60    Furniture
               $28.04      Amazon:Lights
              $963.56      Ikea
@@ -26,14 +57,14 @@
               $99.00        ChangingTable
              $361.00        Closet
              $105.56        Taxes
-            $1054.11    Health
+            $1109.57    Health
              $550.00      Baby:Exams
-             $504.11      Mom
+             $559.57      Mom
               $19.03        Constipation
               $95.72        Drugs
              $102.34        Massage
              $160.00        Physiotherapy
-             $103.38        Vitamins
+             $158.84        Vitamins
               $15.99          Iron
             $1321.75    Hospital
              $125.00      OB:AdminFees
@@ -42,4 +73,4 @@
              $820.00      Room
               $60.00    Paperwork:BirthCertificate
 --------------------
-            $5810.46
+            $7346.46
